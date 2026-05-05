@@ -32,17 +32,10 @@ Os produtos são carregados a partir de um objeto JSON e renderizados dinamicame
 
 ## 🖼️ Prints da aplicação
 
-### 📦 Cards renderizados
-![Cards](./prints/cards.png)
+![Cards](public/imagens/cards.png)
 
----
+![Detalhes](public/imagens/detalhes.png)
 
-### 🔍 Detalhes do produto
-![Detalhes](./prints/detalhes.png)
-
----
-
-### 🧪 Console (querySelectorAll)
-![Console](./prints/console.png)
+![Console](public/imagens/console.png)
 
 
